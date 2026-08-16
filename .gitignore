@@ -1,0 +1,11 @@
+﻿# JetBrains Rider
+.idea/
+*.DotSettings.user
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+
+# SQL Server Management Studio
+*.ssmssln
+*.ssmssqlproj

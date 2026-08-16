@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Minimal-JWT-Authentication/1.0.0": {
+        "runtime": {
+          "Minimal-JWT-Authentication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Minimal-JWT-Authentication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
